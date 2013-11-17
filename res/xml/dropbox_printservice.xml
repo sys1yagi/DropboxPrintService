@@ -1,0 +1,3 @@
+<print-service xmlns:android="http://schemas.android.com/apk/res/android"
+    android:description="@string/description"
+    android:settingsActivity="jp.mydns.sys1yagi.android.dropboxprintservice.DropboxLoginActivity" />

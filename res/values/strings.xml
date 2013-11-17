@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DropboxPrintService</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_login">Login - Dropbox -</string>
+	<string name="description">Upload PDF data to the Dropbox.</string>
+</resources>
