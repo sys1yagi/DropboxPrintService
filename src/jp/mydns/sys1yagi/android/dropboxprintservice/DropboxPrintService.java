@@ -177,7 +177,6 @@ public class DropboxPrintService extends PrintService {
         Log.d(TAG, "onRequestCancelPrintJob(printer id = "
                 + printJob.getInfo().getPrinterId().getLocalId()
                 + ", job id = " + printJob.getId());
-        // printJob.isCancelled()
     }
 
 }
